@@ -1,0 +1,29 @@
+/*
+
+.ui-block-b {
+	text-align:center;
+}
+
+*/
+
+.movie {
+    text-align: left;
+}
+
+.largeimage {
+
+}
+
+footer {
+    text-align: center;
+}
+
+#home, #movie0, #movie1, #movie2 {
+    margin: 2px auto;
+    width: 100%;
+    text-align: center;
+}
+
+.plot {
+    text-align: left;
+}

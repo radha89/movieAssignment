@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!-- Radha Bhachu
+		 991381992
+		  bhambwan -->
+<bhambwan>
+    <pagetitle>Assignment 2 - Movies</pagetitle>
+    <name program="Computer Programmer" studentNumber="991381992">
+        Radha Bhachu
+    </name>
+    <movie>
+        <moviename image="http://bdfun.club/wp-content/uploads/2015/01/60.-the-green-mile-tom-hanks-poster-02.png">
+            The Green Mile
+        </moviename>
+        <movieplot>
+            Death Row guards at a penitentiary, in the 1930's, have
+            a moral dilemma with their job when they discover one
+            of their prisoners, a convicted murderer, has a special
+            gift.
+        </movieplot>
+        <castlist>
+            <actor name="Tom Hanks">
+                <role>
+                    Paul Edgecomb
+                </role>
+            </actor>
+            <actor name="Michael Clarke Duncan">
+                <role>
+                    John Coffey
+                </role>
+            </actor>
+            <actor name="David Morse">
+                <role>
+                    Brutus 'Brutal' Howell
+                </role>
+            </actor>
+        </castlist>
+        <review>
+            Mesmerizing and Thought Provoking
+        </review>
+        <review>
+            Amazing and captivating rendition of the novel.
+        </review>
+        <review>
+            A profoundly moving experience.
+        </review>
+    </movie>
+
+    <movie>
+        <moviename image="https://politicalfilm.files.wordpress.com/2013/04/936full-the-pianist-poster.jpg">
+            The Pianist
+        </moviename>
+        <movieplot>
+            A brilliant pianist, a Polish Jew, witnesses
+            the restrictions Nazis place on Jews in the Polish
+            capital, from restricted access to the building of
+            the Warsaw ghetto. As his family is rounded up to
+            be shipped off to the Nazi labor camps, he escapes
+            deportation and eludes capture by living in the
+            ruins of Warsaw.
+        </movieplot>
+        <castlist>
+            <actor name="Adrien Brody">
+                <role>
+                    Wladyslaw Szpilman
+                </role>
+            </actor>
+            <actor name="Emilia Fox">
+                <role>
+                    Dorota
+                </role>
+            </actor>
+            <actor name="Michal Zebrowski">
+                <role>
+                    Jurek
+                </role>
+            </actor>
+        </castlist>
+        <review>
+            A haunting film, one that you won't forget
+        </review>
+        <review>
+            Excellent, depressing, but excellent
+        </review>
+        <review>
+            Brilliantly Narrated, Visually Stunning!
+        </review>
+    </movie>
+
+    <movie>
+        <moviename image="http://media.indiatimes.in/media/content/2012/May/the_dark_knight_rises_1337663953_460x460.jpg">
+            The Dark Knight (2008)
+        </moviename>
+        <movieplot>
+            Set within a year after the events of Batman Begins,
+            Batman, Lieutenant James Gordon, and new district
+            attorney Harvey Dent successfully begin to round up
+            the criminals that plague Gotham City until a mysterious
+            and sadistic criminal mastermind known only as the
+            Joker appears in Gotham, creating a new wave of chaos.
+            Batman's struggle against the Joker becomes amazing
+            and kill rachel
+        </movieplot>
+        <castlist>
+            <actor name="Christian Bale">
+                <role>
+                    Bruce Wayne
+                </role>
+            </actor>
+            <actor name="Heath Ledger">
+                <role>
+                    Joker
+                </role>
+            </actor>
+            <actor name="Michael Caine">
+                <role>
+                    Alfred
+                </role>
+            </actor>
+        </castlist>
+        <review>
+            Surpasses "Begins" in every aspect!!!
+        </review>
+        <review>
+            Best movie of 2008 hands down!
+        </review>
+        <review>
+            The sequel we deserved to the Batman we wanted
+        </review>
+    </movie>
+</bhambwan>
